@@ -1,16 +1,16 @@
-// Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.
+// Q3: Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 
 /*
 Sample Test Cases:
 Input 1:
-10 2
+5 10
 Output 1:
-Sum=12, Diff=8, Product=20, Quotient=5
+Area=50, Perimeter=30
 
 Input 2:
-7 3
+3 7
 Output 2:
-Sum=10, Diff=4, Product=21, Quotient=2
+Area=21, Perimeter=20
 
 */
 #include<stdio.h>
